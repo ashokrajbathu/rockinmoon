@@ -21,3 +21,4 @@ Stale pidfile exists. Removing it.
 [2015-08-13 08:28:24,041: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
 [2015-08-13 08:33:24,126: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
 [2015-08-13 08:38:24,188: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2015-08-13 08:43:24,243: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
