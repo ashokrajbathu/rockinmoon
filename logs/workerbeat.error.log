@@ -1,0 +1,8 @@
+[2015-08-13 06:58:22,770: INFO/MainProcess] beat: Starting...
+[2015-08-13 07:03:22,949: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+Stale pidfile exists. Removing it.
+[2015-08-13 07:08:01,343: INFO/MainProcess] beat: Starting...
+[2015-08-13 07:08:22,961: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2015-08-13 07:13:23,060: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2015-08-13 07:18:23,125: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)
+[2015-08-13 07:23:23,204: INFO/MainProcess] Scheduler: Sending due task scheduler (frappe.tasks.enqueue_scheduler_events)

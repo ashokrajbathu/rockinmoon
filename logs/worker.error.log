@@ -1,0 +1,4 @@
+[2015-08-13 06:58:23,891: WARNING/MainProcess] celery@instance-2 ready.
+
+worker: Cold shutdown (MainProcess)
+[2015-08-13 07:08:02,282: WARNING/MainProcess] celery@instance-2 ready.

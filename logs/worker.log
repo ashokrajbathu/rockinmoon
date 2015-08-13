@@ -1,0 +1,15 @@
+ 
+ -------------- celery@instance-2 v3.1.18 (Cipater)
+---- **** ----- 
+--- * ***  * -- Linux-3.19.0-25-generic-x86_64-with-Ubuntu-14.04-trusty
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         frappe:0x7f877db66190
+- ** ---------- .> transport:   redis://localhost:6379//
+- ** ---------- .> results:     disabled
+- *** --- * --- .> concurrency: 1 (prefork)
+-- ******* ---- 
+--- ***** ----- [queues]
+ -------------- .> celery           exchange=celery(direct) key=celery
+                
+
